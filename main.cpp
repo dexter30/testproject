@@ -6,7 +6,7 @@ int main()
 	std::cin.get();
 	std::cout<<"newline";
 	///bloop
-	
+	//dean's code sucks
 	
 	
 }
